@@ -25,7 +25,7 @@ public class DistanceP2
 		
 		double FD = D1 + D2 + D3 ;
 		
-		System.out.println("The total distance is"  + dc.format(FD) + ("km"));
+		System.out.println("The total distance is "  + dc.format(FD) + ("km"));
 		
 		
 
